@@ -6,7 +6,7 @@ Programming Language ===> Python
 
 Program Description ===> 13th Exercise
 
-Example ===> Write A Program That Displays The Maximum Value And The Minimum Value Of The following values:
+Example ===> Write A Program That Displays The Maximum Value And The Minimum Value Of The Following Values:
 
 A => number = (1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
 
